@@ -14,3 +14,10 @@ Or without tap:
 ```sh
 brew install dxrcy/elk/elk
 ```
+
+# Minecraft Build
+This tap also provides `elk-mc`, a build with Minecraft integration
+
+```sh
+brew install dxrcy/elk/elk-mc
+```
