@@ -8,7 +8,10 @@ class Elk < Formula
   version meta["version"]
 
   conflicts_with "elk-mc", because: "both install `elk` binaries"
-  depends_on "zig" => :build
+
+  if build.head?
+    depends_on "zig" => :build
+  end
 
   livecheck do
     url "https://github.com/dxrcy/elk/releases/latest"
