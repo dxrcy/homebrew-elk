@@ -5,7 +5,7 @@ class ElkMc < Formula
   head "https://codeberg.org/dxrcy/elk.git", branch: "minecraft"
 
   meta = JSON.parse(File.read("#{__dir__}/../version.json"))
-  version meta["version"]
+  version meta["mc"]["version"]
 
   conflicts_with "elk", because: "both install `elk` binaries"
 

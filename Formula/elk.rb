@@ -5,7 +5,7 @@ class Elk < Formula
   head "https://codeberg.org/dxrcy/elk.git", branch: "master"
 
   meta = JSON.parse(File.read("#{__dir__}/../version.json"))
-  version meta["version"]
+  version meta["base"]["version"]
 
   conflicts_with "elk-mc", because: "both install `elk` binaries"
 
