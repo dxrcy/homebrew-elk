@@ -1,10 +1,10 @@
 {
   "base": {
-    "version": "0.1.5",
+    "version": "0.1.6",
     "sha256": {
-      "macos-arm64": "4ed66d0f3fbe6ec4356779afe1940c63fd765dbfb23a97417df6e9d469655e1f",
-      "macos-x64": "d1c1f1b4a15eefb90cd767061f28069740c5ac8d42bf255717217f3c642bb286",
-      "linux-x64": "db888e1576b50c446f663da67e18107f2a1fac1d495877c50e425f5d8df2af73"
+      "macos-arm64": "b0bb8b0de54a6e00efda8b06993920a0093352dce3154a1ff77746e4e48121b2",
+      "macos-x64": "2f72cdaa22f432491af701c8cb3cfcd8a3e3383852d1159911f2440d11c3a542",
+      "linux-x64": "7f50f446e852860a732bcaaae0af09abdc94008933b2d5f515c4d77bf4ce14b5"
     }
   },
   "mc": {
