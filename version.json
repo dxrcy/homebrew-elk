@@ -10,7 +10,7 @@
   "mc": {
     "version": "0.1.6-mc",
     "sha256": {
-      "macos-arm64": "a46cd3b821f20ab9fb2b8fcea401f8b676a50967115523a0fe1acc7d7bbed37c",
+      "macos-arm64": "e9d904516543286116491ddedeb709d451fb2adc1d0564c8ab0728105ed84e62",
       "macos-x64": "afa51dec5fb19c4ea844252652191658ff10a512eb28d93e6fedb85f5c6f3702",
       "linux-x64": "5e03baeec922e68c2056b1e4df9725d9c3625b9f4bfbea15ab83bbcf31449c38"
     }
